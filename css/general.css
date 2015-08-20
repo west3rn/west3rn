@@ -1102,6 +1102,15 @@ color: #ECEBEB;
 
 /* Mobile Landscape */
 @media only screen and (min-width: 480px) and (max-width: 767px) { 
+			/*.intro-header {
+			height: 100%;
+			color: #f8f8f8;
+
+			background-size: cover;
+			text-align: center;
+		}*/
+
+	.abcen1{position: absolute;top: 10%;}	
 		.h1_home {
 			font-size: 30px;
 		}
